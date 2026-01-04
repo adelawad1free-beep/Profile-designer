@@ -1,0 +1,8 @@
+{
+  "name": "BeeDesign AI Assistant",
+  "description": "A smart AI-powered web design assistant inspired by Bee Post, helping users create stunning layouts and color palettes effortlessly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
